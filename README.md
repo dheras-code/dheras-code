@@ -1,1 +1,1 @@
-Passionate AI + ML developer using Python.
+Building solutions.
