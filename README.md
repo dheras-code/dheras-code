@@ -20,6 +20,16 @@ I am an AI Engineer based in Barcelona, focused on turning real business needs i
 
 I currently work remotely in an autonomous two-person team during an Artificial Intelligence Master's internship. We share responsibility for the complete product lifecycle: requirements discovery, functional design, planning, full-stack development, implementation, production deployment and continuous improvement.
 
+## AI Master's portfolio
+
+Explore [12 curated AI Master's practices in one portfolio](https://dheras-code.github.io/ai-master-portfolio/), grouped into six technical repositories. Each project links to its code, a reproducible example or clearly stated execution limits, and its data provenance.
+
+- [Baby Tracker · Computer Vision](https://github.com/dheras-code/baby-tracker-computer-vision): architecture and aggregate academic results with a synthetic demo; no real images or videos of children are published.
+- [YouTube Trending ML](https://github.com/dheras-code/youtube-trending-ml): preprocessing, model comparison, model card and leakage analysis.
+- [Madrid Road Safety EDA](https://github.com/dheras-code/madrid-road-safety-eda): reproducible analysis that separates person records from unique incidents.
+
+The [portfolio index](https://dheras-code.github.io/ai-master-portfolio/#practicas) also links directly to all 12 practices, including Spark, SQL/MongoDB, Linux and Python foundations.
+
 ## What I work on
 
 - Applied AI workflows using LLM integration, OCR, structured extraction, validation, business rules and human review.
